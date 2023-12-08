@@ -6,6 +6,8 @@
 
 </div>
 
+## License
+
 <div align="left">
     <p align="left">
         <a href="https://github.com/benweston/dotfiles/blob/main/LICENSE">
