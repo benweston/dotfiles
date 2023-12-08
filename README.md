@@ -1,3 +1,5 @@
+![banner-image](https://github.com/benweston/dotfiles/blob/main/assets/banner-image.png)
+
 # Dotfiles
 
 <div align="left">
