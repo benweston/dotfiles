@@ -1,4 +1,6 @@
-![banner-image](https://github.com/benweston/dotfiles/blob/main/assets/banner-image.png)
+<div align="center">
+    <img src="https://github.com/benweston/dotfiles/blob/main/assets/banner-image.png" alt="Computer Code" width="900" height="70" />
+</div>
 
 # Dotfiles
 
