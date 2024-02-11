@@ -15,7 +15,7 @@
 <div align="left">
     <p align="left">
         <a href="https://github.com/benweston/dotfiles/blob/main/LICENSE">
-            <img src="https://github.com/benweston/dotfiles/blob/main/assets/mit-icon.png" width="88" height="31" alt="license-icon-mit" />
+            <img src="https://github.com/benweston/dotfiles/blob/main/img/mit-icon.png" width="88" height="31" alt="license-icon-mit" />
         </a>
     </p>
 </div>
