@@ -10,17 +10,6 @@
 
 </div>
 
-## Project Roadmap
-
-<div align="left">
-
-All current & upcoming work is captured within the following project:   
-| Project Name | Description |
-| :----- | :----- |
-| [Dotfiles](https://github.com/users/benweston/projects/5/views/1) | Config files for local env set up. |
-
-</div>
-
 ## License
 
 <div align="left">
