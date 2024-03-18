@@ -13,16 +13,8 @@
 ## License
 
 <div align="left">
-    <p align="left">
-        <a href="https://github.com/benweston/dotfiles/blob/main/LICENSE">
-            <img src="https://github.com/benweston/dotfiles/blob/main/img/mit-icon.png" width="88" height="31" alt="license-icon-mit" />
-        </a>
-    </p>
-</div>
 
-## Acknowledgements
+The Dotfiles repository contents are provided under the [MIT License](https://github.com/benweston/dotfiles/blob/main/LICENSE).   
+Banner image taken from photo by [Mohammad Rahmani](https://unsplash.com/@afgprogrammer?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/black-flat-screen-computer-monitor-8qEB0fTe9Vw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) under the [Unsplash License](https://unsplash.com/license).   
 
-<div align="left">
-    Banner taken from photo by <a href="https://unsplash.com/@afgprogrammer?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Mohammad Rahmani</a> on
-    <a href="https://unsplash.com/photos/black-flat-screen-computer-monitor-8qEB0fTe9Vw?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 </div>
